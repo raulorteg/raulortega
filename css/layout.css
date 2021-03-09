@@ -125,6 +125,7 @@ p {line-height: 1.5em;}
 .bulletpoints {line-height: 1.5em;}
 .row {box-sizing: border-box;}
 
+
 .row-media {
   display: block;
   float: left;
@@ -139,14 +140,14 @@ p {line-height: 1.5em;}
 .row-text {
   display: block;
   float: left;
-  margin-left: 16px;
+  /*margin-left: 16px;*/
   line-height: 1.5em;
   max-width: 662px;
 }
 
 .row-text span {line-height: inherit;}
 .clearfix {content: ""; clear: both; display: table;}
-.publication {margin-bottom: 32px;}
+/*.publication {margin-bottom: 32px;}*/
 
 .press {width: 100px;
   height: 80px;
