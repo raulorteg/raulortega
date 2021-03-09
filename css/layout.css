@@ -1,6 +1,5 @@
 
 .parpadea {
-  
   animation-name: parpadeo;
   animation-duration: 0.4s;
   animation-timing-function: linear;
@@ -200,7 +199,10 @@ body {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin: 0;
+  /*margin: 0;*/
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 .text {
